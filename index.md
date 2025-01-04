@@ -1,5 +1,3 @@
-# Selamat Datang di Website Saya
-
 Halo! Nama saya Handika. Saya seorang pengembang web yang sedang belajar dan berkembang di dunia teknologi.
 
 ## Tentang Saya
